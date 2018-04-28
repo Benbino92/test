@@ -16,7 +16,14 @@
     "url": "https://github.com/Benbino92/test/issues"
   },
   "homepage": "https://github.com/Benbino92/test#readme",
+
   "dependencies": {
-    "unsplash-js": "^4.8.0"
+    "unsplash-js": "4.8.0"
+
+  },
+  "devDependencies": {
+    "webpack": "4.6.0",
+    "webpack-cli": "2.0.14",
+    "webpack-dev-server": "3.1.3"
   }
 }
